@@ -12,7 +12,9 @@
 
 #3. RUn the file CityNameParserApp.java using run configuration.
 
-#Sample Output:
+#### INPUT URL: https://urldefense.proofpoint.com/v2/url?u=https-3A__samples.openweathermap.org_data_2.5_box_city-3Fbbox-3D12-2C32-2C15-2C37-2C10-26appid-3Db6907d289e10d714a6e88b30761fae22&d=DwMGaQ&c=_EdSgJoS8igo01XnekBu_azVXoUPxJkwz9O2AzwhBbE&r=yGXramQpQzxL8vCRHR8gA2S69e5mC4SqN0XAMp-SsBRr_PPAHpEDDfISSdDZ_Ufb&m=GVUYIKHm6zzG5Raw7ufiEE0E-XUDUhKhr8-ufwstAXU&s=Ns7yqCzGm8FL1ZSHcARuWG8WGHgUY6ayET2rqBduXnA&e=
+
+###Sample Output:
 #---------------
 
 Sep 01, 2019 7:28:34 PM com.hsbc.parser.cityNameParser.CityNameParserApp main
